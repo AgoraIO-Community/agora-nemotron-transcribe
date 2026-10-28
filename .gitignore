@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.agora/
+.pnpm-store/
+work/
+*.log
+
+inference/runtime/
+models/
